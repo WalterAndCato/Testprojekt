@@ -2,7 +2,7 @@
 namespace Probierprojekt.DependencyInjection.PropertyInjection
 {
     
-    public class Service : IServicde
+    public class Service : IService
 	{
 		public void Serve()
 		{
